@@ -1,2 +1,2 @@
-# sushikid.github.io
+# sushik1d.github.io
 Personal portfolio — Shreyank Adhikari
